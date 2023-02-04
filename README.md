@@ -1,4 +1,14 @@
-### Hi there 👋
+### <div><marquee scrolldelay=0 scrollamount="8"><h1>Hi welcome to kumarmuthu github 👋...</h1></marquee></div>
+* **
+## Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/{kumarmuthu}/count.svg)
+
+* **
+**How to reach me:**
+*   **Linkedin:**    https://www.linkedin.com/in/muthukumar-subramanian-7932a8194
+*   **GitHub:**      https://github.com/kumarmuthu
+*   **YouTube:**     https://www.youtube.com/channel/UC21BLRVzHJmMbXKhZpEiz5Q
+* **
 
 <!--
 **kumarmuthu/kumarmuthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
