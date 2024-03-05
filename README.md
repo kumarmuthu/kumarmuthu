@@ -5,7 +5,7 @@
 
 * **
 **How to reach me:**
-*   **Linkedin:**    https://www.linkedin.com/in/muthukumar-subramanian-7932a8194
+*   **Linkedin:**    https://www.linkedin.com/in
 *   **GitHub:**      https://github.com/kumarmuthu
 *   **YouTube:**     https://www.youtube.com/channel/UC21BLRVzHJmMbXKhZpEiz5Q
 * **
