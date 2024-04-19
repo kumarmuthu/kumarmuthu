@@ -13,12 +13,12 @@
 * **
 * **Available Private Projects, Python Frameworks, and private Logic scripts**
   * **Python Flask**
+  * * **Java JSF Project**
   * **Python Private Logic**
   * **Python Testing Framework**
   * **Python Private Selenium Project**
-  * **Private EPS32 with MuthuWebSite**
+  * **Private EPS32 with Muthu WebSite**
   * **Python Runtime-Based Script Execution Framework**
-  * **Java JSF Project**
 * **
 <!--
 **kumarmuthu/kumarmuthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
