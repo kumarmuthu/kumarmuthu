@@ -13,7 +13,7 @@
 * **
 * **Available Private Projects, Python Frameworks, and private Logic scripts**
   * **Python Flask**
-  * * **Java JSF Project**
+  * **Java JSF Project**
   * **Python Private Logic**
   * **Python Testing Framework**
   * **Python Private Selenium Project**
