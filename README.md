@@ -5,6 +5,11 @@
 </div>
 <hr>
 <div>
+  <h1 align="left"><strong>Snake Eating My Contribution Graph</strong></h1>
+    <img src="https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
+<hr>
+<div>
   <h1 align="left"><strong>Programing Language Dashboard</strong></h1>
     <a href="https://github.com/kumarmuthu">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmuthu&theme=tokyonight&layout=compact"/></a>
@@ -69,5 +74,4 @@
   </ul>
 </div>
 <hr>
-
-![snake gif](https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg)
+[//]: # (![snake gif]&#40;https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg&#41;)
