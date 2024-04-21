@@ -70,4 +70,4 @@
 </div>
 <hr>
 
-![snake gif](https://github.com/kumarmuthu/kumarmuthu/blob/output/github-contribution-grid-snake-dark.svg%3Fpalette%3Dgithub-dark)
+![snake gif](https://github.com/kumarmuthu/kumarmuthu/blob/output/github-contribution-grid-snake.svg)
