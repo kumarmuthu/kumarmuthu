@@ -11,7 +11,7 @@
 * **
 
 * **
-* **Available Private Projects, Python Frameworks, and private Logic scripts**
+* **Available Private Projects, Python Frameworks, and private Utility scripts**
   * **Python Flask**
   * **Java JSF Project**
   * **Python Private Logic**
