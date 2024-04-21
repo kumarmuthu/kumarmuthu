@@ -18,7 +18,9 @@
   * **Python Testing Framework**
   * **Python Private Selenium Project**
   * **Private EPS32 with Muthu WebSite**
+  * **Python Utility to connect to Google Firebase**
   * **Python Runtime-Based Script Execution Framework**
+  * **Python Implementation for Generating and Validating Licenses with Google Firebase**
 * **
 <!--
 **kumarmuthu/kumarmuthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
