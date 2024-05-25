@@ -63,6 +63,7 @@
     <ul style="list-style-type: disc; padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li><strong>Python Flask</strong></li>
       <li><strong>Java JSF Project</strong></li>
+      <li><strong>AI/Huggingface</strong></li>
       <li><strong>Python Private Logic</strong></li>
       <li><strong>Python Testing Framework</strong></li>
       <li><strong>Python Private Selenium Project</strong></li>
