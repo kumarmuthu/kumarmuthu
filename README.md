@@ -68,6 +68,7 @@
       <li><strong>Python Testing Framework</strong></li>
       <li><strong>Python Private Selenium Project</strong></li>
       <li><strong>Private EPS32 with Muthu WebSite</strong></li>
+      <li><strong>Python With MongoDB(Store/Retrieve/Delete)</strong></li>
       <li><strong>Python Utility to connect to Google Firebase</strong></li>
       <li><strong>Python Runtime-Based Script Execution Framework</strong></li>
       <li><strong>Python Implementation for Generating and Validating Licenses with Google Firebase</strong></li>
