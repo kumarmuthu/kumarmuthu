@@ -76,9 +76,9 @@
 </div>
 <hr>
 <!-- # (![snake gif]&#40;https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg&#41;) -->
-<!-- De#pendencies Packages for all the Repositories: -->
-<!-- De#pendencies will be inserted here by GitHub Actions -->
-<!-- ## De#pendencies -->
+<!-- Dependencies Packages for all the Repositories -->
+<!-- Dependencies will be inserted here by GitHub Actions -->
+<!-- ## Dependencies -->
 
 ## Dependencies Packages for all the Repositories:
 
