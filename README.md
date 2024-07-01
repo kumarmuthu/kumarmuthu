@@ -80,7 +80,7 @@
 <!-- Dependencies will be inserted here by GitHub Actions -->
 <!-- ## Dependencies -->
 
-Dependencies Packages for all the Repositories:
+## Dependencies Packages for all the Repositories:
 
 ### AI - MuthuJarvis/requirements.txt
 - transformers>=4.41.1
