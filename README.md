@@ -76,11 +76,11 @@
 </div>
 <hr>
 <!-- # (![snake gif]&#40;https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg&#41;) -->
-<!-- Dependencies will be inserted here by GitHub Actions -->
 <!-- Dependencies Packages for all the Repositories: -->
+<!-- Dependencies will be inserted here by GitHub Actions -->
+<!-- ## Dependencies -->
 
-## Dependencies
-
+Dependencies Packages for all the Repositories:
 
 ### AI - MuthuJarvis/requirements.txt
 - transformers>=4.41.1
