@@ -77,7 +77,8 @@
 </div>
 <hr>
 <!-- # (![snake gif]&#40;https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg&#41;) -->
-## Dependencies
+
+## Dependencies for Repositories:
 
 
 ### AI - MuthuJarvis/requirements.txt
