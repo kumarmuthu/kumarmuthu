@@ -66,6 +66,7 @@
   <ul style="list-style-type: disc; padding-left: 0; margin-top: 0; margin-bottom: 0;">
     <li><strong><span style="font-size: 16px;">Available Private Projects, Python Frameworks, and private Utility scripts</span></strong></li>
     <ul style="list-style-type: disc; padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li><strong>PyThreadKiller</strong></li>
       <li><strong>Python Flask</strong></li>
       <li><strong>Java JSF Project</strong></li>
       <li><strong>AI/Huggingface</strong></li>
