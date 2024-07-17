@@ -4,6 +4,12 @@
 </div>
 <hr>
 <div>
+  <h1 align="left"><strong>PyPi Package</strong></h1>
+    <ul>
+        <li><a href="https://pypi.org/project/PyThreadKiller/" target="_blank">PyThreadKiller</a></li>
+    </ul>
+</div>
+<div>
   <h1 align="left"><strong>Snake Eating My Contribution Graph</strong></h1>
     <img src="https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
