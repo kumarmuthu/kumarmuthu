@@ -68,16 +68,17 @@
   <ul style="list-style-type: disc; padding-left: 0; margin-top: 0; margin-bottom: 0;">
     <li><strong><span style="font-size: 16px;">Available Private Projects, Python Frameworks, and private Utility scripts</span></strong></li>
     <ul style="list-style-type: disc; padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li><strong>PyThreadKiller</strong></li>
       <li><strong>Python Flask</strong></li>
+      <li><strong>PyThreadKiller</strong></li>
       <li><strong>Java JSF Project</strong></li>
-      <li><strong>AI/Huggingface</strong></li>
       <li><strong>Python Private Logic</strong></li>
       <li><strong>Python Testing Framework</strong></li>
+      <li><strong>Python with AI/Huggingface</strong></li>
       <li><strong>Python Private Selenium Project</strong></li>
       <li><strong>Private EPS32 with Muthu WebSite</strong></li>
-      <li><strong>Python With MongoDB(Store/Retrieve/Delete)</strong></li>
+      <li><strong>Docker Image Builder(Linux/Windows)</strong></li>
       <li><strong>Python Utility to connect to Google Firebase</strong></li>
+      <li><strong>Python With MongoDB(Store/Retrieve/Delete)</strong></li>
       <li><strong>Python Runtime-Based Script Execution Framework</strong></li>
       <li><strong>Python Implementation for Generating and Validating Licenses with Google Firebase</strong></li>
     </ul>
