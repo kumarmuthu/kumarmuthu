@@ -11,15 +11,21 @@
 </div>
 <div>
   <h1 align="left"><strong>Python Flask App</strong></h1>
-    <ul>
-        <li><a href="https://pythonflaskapps.onrender.com/" target="_blank">PythonFlaskApp</a></li>
-    </ul>
+  <ul>
+    <li><a href="https://pythonflaskapps.onrender.com/" target="_blank">Python Flask App</a> — Lightweight quiz app with a single quiz page; anyone can play the quiz.</li>
+  </ul>
 </div>
 <div>
   <h1 align="left"><strong>Python Quiz App</strong></h1>
-    <ul>
-        <li><a href="https://pythonquizapp.onrender.com/" target="_blank">PythonQuizApp</a></li>
-    </ul>
+  <ul>
+    <li><a href="https://pythonquizapp.onrender.com/" target="_blank">Python Quiz App</a> — Users must register and log in to play the quiz.</li>
+  </ul>
+</div>
+<div>
+  <h1 align="left"><strong>ESP32 Web App</strong></h1>
+  <ul>
+    <li><a href="https://esp32-firebase-oled-display.web.app/" target="_blank">ESP32 Web App</a> — ESP32 controller for a servo motor and OLED display, integrated with Google Firebase.</li>
+  </ul>
 </div>
 <div>
   <h1 align="left"><strong>Snake Eating My Contribution Graph</strong></h1>
