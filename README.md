@@ -41,7 +41,7 @@
 <div>
     <h1 align="left"><strong>Languages and Tools:</strong></h1>
     <h2 align="left"><strong>Languages:</strong></h2>
-    <p align="left">
+    <p align="center">
         <span style="display: inline-block; margin-right: 10px;">
             <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Python-Dark-1.svg" alt="Python" class="Python-icon"/>
             <br>Python
@@ -84,7 +84,7 @@
         </span>
     </p>
 <h2 align="left"><strong>Hardware/Technology Domain:</strong></h2>
-<p align="left">
+<p align="center">
     <span style="display: inline-block; margin-right: 10px;">
         <img border="0" width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/AMD-Dark.svg" alt="AMD" class="AMD-icon"/>
         <br>AMD
@@ -100,7 +100,7 @@
 </p>
 
 <h2 align="left"><strong>Tools:</strong></h2>
-<p align="left">
+<p align="center">
     <span style="display: inline-block; margin-right: 10px;">
         <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Git.svg" alt="Git" class="Git-icon"/>
         <br>Git
@@ -156,7 +156,7 @@
 </p>
 
 <h2 align="left"><strong>DIY Tools (Arduino, MicroPython):</strong></h2>
-<p align="left">
+<p align="center">
     <span style="display: inline-block; margin-right: 10px;">
         <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Arduino.svg" alt="Arduino C++" class="Arduino-icon"/>
         <br>Arduino C++
@@ -168,11 +168,10 @@
 </p>
 
 <h2 align="left"><strong>Operating Systems:</strong></h2>
-<p align="left">
+<p align="center">
     <span style="display: inline-block; margin-right: 10px;">
         <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Linux-Light.svg" alt="Linux" class="Linux-icon"/>
         <br>Linux
-    </span>
     </span>
       <span style="display: inline-block; margin-right: 10px;">
         <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Bash-Light.svg" alt="Linux Bash" class="LinuxBash-icon"/>
@@ -189,7 +188,7 @@
 </p>
 
 <h2 align="left"><strong>Editor Tools:</strong></h2>
-<p align="left">
+<p align="center">
     <span style="display: inline-block; margin-right: 10px;">
         <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/PyCharm-Light.svg" alt="PyCharm" class="PyCharm-icon"/>
         <br>PyCharm
