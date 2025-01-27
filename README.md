@@ -1,7 +1,6 @@
 <marquee scrolldelay="0" scrollamount="8">
     <h1><strong>Hi, welcome to kumarmuthu GitHub 👋...</strong></h1>
-  </marquee>
-</div>
+</marquee>
 <hr>
 <div>
   <h1 align="left"><strong>PyPi Package</strong></h1>
@@ -33,10 +32,190 @@
 </div>
 <hr>
 <div>
-  <h1 align="left"><strong>Programing Language Dashboard</strong></h1>
+  <h1 align="left"><strong>Programming Language Dashboard</strong></h1>
     <a href="https://github.com/kumarmuthu">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmuthu&theme=tokyonight&layout=compact"/></a>
     <br/>
+</div>
+<hr>
+<div>
+    <h1 align="left"><strong>Languages and Tools:</strong></h1>
+    <h2 align="left"><strong>Languages:</strong></h2>
+    <p align="left">
+        <span style="display: inline-block; margin-right: 10px;">
+            <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Python-Dark-1.svg" alt="Python" class="Python-icon"/>
+            <br>Python
+        </span>
+        <span style="display: inline-block; margin-right: 10px;">
+            <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Selenium.svg" alt="Selenium with Python and Perl" class="Selenium-icon"/>
+            <br>Selenium with Python
+        </span>
+        <span style="display: inline-block; margin-right: 10px;">
+            <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Flask-Dark.svg" alt="Python Flask" class="PythonFlask-icon"/>
+            <br>Python Flask
+        </span>
+        <span style="display: inline-block; margin-right: 10px;">
+            <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/MongoDB.svg" alt="Python with MongoDB" class="MongoDB-icon"/>
+            <br>Python with MongoDB
+        </span>
+        <span style="display: inline-block; margin-right: 10px;">
+            <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Perl.svg" alt="Perl" class="Perl-icon"/>
+            <br>Perl
+        </span>
+        <span style="display: inline-block; margin-right: 10px;">
+            <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/HTML.svg" alt="HTML" class="HTML-icon"/>
+            <br>HTML
+        </span>
+        <span style="display: inline-block; margin-right: 10px;">
+            <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/CPP.svg" alt="C++" class="Cplusplus-icon"/>
+            <br>C++
+        </span>
+        <span style="display: inline-block; margin-right: 10px;">
+            <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Java-Light.svg" alt="Java (JSP, JSF)" class="Java-icon"/>
+            <br>Java (JSP, JSF)
+        </span>
+        <span style="display: inline-block; margin-right: 10px;">
+            <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Android-Light.svg" alt="Android" class="Android-icon"/>
+            <br>Android
+        </span>
+        <span style="display: inline-block; margin-right: 10px;">
+            <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/MSSQL-Server-Light.svg" alt="MSSQL with Python and Perl" class="MSSQL-icon"/>
+            <br>MSSQL with Python, Perl, and Java
+        </span>
+    </p>
+<h2 align="left"><strong>Hardware/Technology Domain:</strong></h2>
+<p align="left">
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/AMD-Dark.svg" alt="AMD" class="AMD-icon"/>
+        <br>AMD
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Broadcom-Light-1.svg" alt="Broadcom" class="Broadcom-icon"/>
+        <br>Broadcom
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Intel-Light-1.svg" alt="Intel" class="Intel-icon"/>
+        <br>Intel
+    </span>
+</p>
+
+<h2 align="left"><strong>Tools:</strong></h2>
+<p align="left">
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Git.svg" alt="Git" class="Git-icon"/>
+        <br>Git
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Github-Light.svg" alt="GitHub" class="Github-icon"/>
+        <br>GitHub
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/GithubActions-Dark.svg" alt="GitHub Actions" class="GithubActions-icon"/>
+        <br>GitHub Actions
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/GitLab-Light.svg" alt="GitLab" class="Gitlab-icon"/>
+        <br>GitLab
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Jira-Light.svg" alt="Jira" class="Jira-icon"/>
+        <br>Jira
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Jenkins-Light.svg" alt="Jenkins & Groovy" class="Jenkins-icon"/>
+        <br>Jenkins & Groovy
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Docker.svg" alt="Docker" class="Docker-icon"/>
+        <br>Docker
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Postman.svg" alt="Postman" class="Postman-icon"/>
+        <br>Postman
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/FastAPI.svg" alt="FastAPI" class="FastAPI-icon"/>
+        <br>FastAPI
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Firebase-Light.svg" alt="Firebase" class="Firebase-icon"/>
+        <br>Firebase
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/GraphQL-Light.svg" alt="GraphQL" class="GraphQL-icon"/>
+        <br>GraphQL
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Markdown-Light.svg" alt="Markdown" class="Markdown-icon"/>
+        <br>Markdown
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Regex-Light.svg" alt="Regex" class="Regex-icon"/>
+        <br>Regex
+    </span>
+</p>
+
+<h2 align="left"><strong>DIY Tools (Arduino, MicroPython):</strong></h2>
+<p align="left">
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Arduino.svg" alt="Arduino C++" class="Arduino-icon"/>
+        <br>Arduino C++
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/MicroPython-Light.svg" alt="MicroPython" class="MicroPython-icon"/>
+        <br>MicroPython
+    </span>
+</p>
+
+<h2 align="left"><strong>Operating Systems:</strong></h2>
+<p align="left">
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Linux-Light.svg" alt="Linux" class="Linux-icon"/>
+        <br>Linux
+    </span>
+    </span>
+      <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Bash-Light.svg" alt="Linux Bash" class="LinuxBash-icon"/>
+        <br>Linux Bash
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Windows-Light.svg" alt="Windows" class="Windows-icon"/>
+        <br>Windows
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Powershell-Light.svg" alt="PowerShell" class="Powershell-icon"/>
+        <br>PowerShell
+    </span>
+</p>
+
+<h2 align="left"><strong>Editor Tools:</strong></h2>
+<p align="left">
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/PyCharm-Light.svg" alt="PyCharm" class="PyCharm-icon"/>
+        <br>PyCharm
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/VSCode-Light.svg" alt="VSCode" class="VSCode-icon"/>
+        <br>VSCode
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Eclipse-Light.svg" alt="Eclipse" class="Eclipse-icon"/>
+        <br>Eclipse
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/VIM-Light.svg" alt="Vim" class="VIM-icon"/>
+        <br>Vim
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/AndroidStudio-Light.svg" alt="Android Studio" class="AndroidStudio-icon"/>
+        <br>Android Studio
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+        <img border="0" width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Thonny-Python-Light.svg" alt="Thonny" class="Thonny-icon"/>
+        <br>Thonny Python
+    </span>
+</p>
+
 </div>
 <hr>
 <div>
@@ -74,11 +253,11 @@
 <!--
 <div>
   <a href="mailto:EMAIL" target="_blank">
-    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=EMAIL" />
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=EMAIL"/>
 </div>
 -->
 <div>
-    <a><img align=center width=40% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+000-000-0000" /></a>
+    <a><img align=center width=40% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+000-000-0000"/></a>
 </div>
 <hr>
 <div>
