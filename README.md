@@ -37,6 +37,221 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmuthu&theme=tokyonight&layout=compact"/></a>
     <br/>
 </div>
+<h1 align="left"><strong>Languages and Tools:</strong></h1>
+<h2 align="left"><strong>Languages:</strong></h2>
+<table border="0">
+    <tr>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Python-Dark-1.svg" alt="Python">
+            <br><small>Python</small>
+        </td>
+        <td align="center">
+            <img width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Selenium.svg" alt="Selenium with Python">
+            <br><small>Selenium with Python</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Flask-Dark.svg" alt="Python Flask">
+            <br><small>Python Flask</small>
+        </td>
+        <td align="center">
+            <img width="50" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/MongoDB.svg" alt="Python with MongoDB">
+            <br><small>Python with MongoDB</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Perl.svg" alt="Perl">
+            <br><small>Perl</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/HTML.svg" alt="HTML">
+            <br><small>HTML</small>
+        </td>
+    </tr>
+    </table>
+    <table border="0">
+    <tr>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/CPP.svg" alt="C++">
+            <br><small>C++</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Java-Light.svg" alt="Java (JSP, JSF)">
+            <br><small>Java (JSP, JSF)</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Android-Light.svg" alt="Android">
+            <br><small>Android</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/MSSQL-Server-Light.svg" alt="MSSQL with Python and Perl">
+            <br><small>MSSQL with Python, Perl, and Java</small>
+        </td>
+    </tr>
+</table>
+<h2 align="left"><strong>Hardware/Technology Domain:</strong></h2>
+<table border="0">
+    <tr>
+        <td align="center">
+            <img width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/AMD-Dark.svg" alt="AMD">
+            <br><small>AMD</small>
+        </td>
+        <td align="center">
+            <img width="150" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Nutanix-Light.svg" alt="Nutanix">
+            <br><small>Nutanix</small>
+        </td>
+        <td align="center">
+            <img width="150" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Broadcom-Light-1.svg" alt="Broadcom">
+            <br><small>Broadcom</small>
+        </td>
+        <td align="center">
+            <img width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Intel-Light-1.svg" alt="Intel">
+            <br><small>Intel</small>
+        </td>
+        <td align="center">
+            <img width="150" height="80" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Lightbits-Light.png" alt="Lightbits">
+            <br><small>Lightbits</small>
+        </td>
+    </tr>
+</table>
+<h2 align="left"><strong>Tools:</strong></h2>
+<table border="0">
+    <tr>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Illustrator.svg" alt="AI">
+            <br><small>AI</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Huggingface-Light.svg" alt="Hugging Face">
+            <br><small>Hugging Face</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Git.svg" alt="Git">
+            <br><small>Git</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Github-Light.svg" alt="GitHub">
+            <br><small>GitHub</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/GithubActions-Dark.svg" alt="GitHub Actions">
+            <br><small>GitHub Actions</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/GitLab-Light.svg" alt="GitLab">
+            <br><small>GitLab</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Jira-Light.svg" alt="Jira">
+            <br><small>Jira</small>
+        </td>
+        <td align="center">
+            <img width="100" height="60" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Redmine-Light-1.svg" alt="Redmine">
+            <br><small>Redmine</small>
+        </td>
+    </tr>
+</table>
+<table border="0">
+    <tr>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Jenkins-Light.svg" alt="Jenkins & Groovy">
+            <br><small>Jenkins & Groovy</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Docker.svg" alt="Docker">
+            <br><small>Docker</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Postman.svg" alt="Postman">
+            <br><small>Postman</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/FastAPI.svg" alt="FastAPI">
+            <br><small>FastAPI</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Firebase-Light.svg" alt="Firebase">
+            <br><small>Firebase</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/GraphQL-Light.svg" alt="GraphQL">
+            <br><small>GraphQL</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Markdown-Light.svg" alt="Markdown">
+            <br><small>Markdown</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Regex-Light.svg" alt="Regex">
+            <br><small>Regex</small>
+        </td>
+    </tr>
+</table>
+<h2 align="left"><strong>DIY Tools (Arduino, MicroPython):</strong></h2>
+<table border="0">
+    <tr>
+        <td align="center">
+            <img width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Arduino.svg" alt="Arduino C++">
+            <br><small>Arduino C++</small>
+        </td>
+        <td align="center">
+            <img width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/MicroPython-Light.svg" alt="MicroPython">
+            <br><small>MicroPython</small>
+        </td>
+    </tr>
+</table>
+<h2 align="left"><strong>Operating Systems:</strong></h2>
+<table border="0">
+    <tr>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Linux-Light.svg" alt="Linux">
+            <br><small>Linux</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Bash-Light.svg" alt="Linux Bash">
+            <br><small>Linux Bash</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Windows-Light.svg" alt="Windows">
+            <br><small>Windows</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Powershell-Light.svg" alt="PowerShell">
+            <br><small>PowerShell</small>
+        </td>
+    </tr>
+</table>
+<h2 align="left"><strong>Editor Tools:</strong></h2>
+<table border="0">
+    <tr>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/PyCharm-Light.svg" alt="PyCharm">
+            <br><small>PyCharm</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/VSCode-Light.svg" alt="VSCode">
+            <br><small>VSCode</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Eclipse-Light.svg" alt="Eclipse">
+            <br><small>Eclipse</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Netbeans-Light-2.svg" alt="Netbeans">
+            <br><small>Netbeans</small>
+        </td>
+        <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/VIM-Light.svg" alt="Vim">
+            <br><small>Vim</small>
+        </td>
+            <td align="center">
+            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/AndroidStudio-Light.svg" alt="Android Studio">
+            <br><small>Android Studio</small>
+        </td>
+            <td align="center">
+            <img width="100" height="80" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Thonny-Python-Light.svg" alt="Thonny">
+            <br><small>Thonny Python</small>
+        </td>
+    </tr>
+</table>
 <hr>
 <div>
   <h1 align="left"><strong>Activity Graph</strong></h1>
