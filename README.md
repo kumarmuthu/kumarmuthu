@@ -202,19 +202,19 @@
 <table border="0">
     <tr>
         <td align="center">
-            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Linux-Light.svg" alt="Linux">
+            <img width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Linux-Light.svg" alt="Linux">
             <br><small>Linux</small>
         </td>
         <td align="center">
-            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Bash-Light.svg" alt="Linux Bash">
+            <img width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Bash-Light.svg" alt="Linux Bash">
             <br><small>Linux Bash</small>
         </td>
         <td align="center">
-            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Windows-Light.svg" alt="Windows">
+            <img width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Windows-Light.svg" alt="Windows">
             <br><small>Windows</small>
         </td>
         <td align="center">
-            <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Powershell-Light.svg" alt="PowerShell">
+            <img width="100" height="100" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Powershell-Light.svg" alt="PowerShell">
             <br><small>PowerShell</small>
         </td>
     </tr>
