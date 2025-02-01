@@ -140,6 +140,10 @@
             <br><small>GitLab</small>
         </td>
         <td align="center">
+            <img width="150" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Gitea-Light-1.svg" alt="Gitea">
+            <br><small>Gitea</small>
+        </td>
+        <td align="center">
             <img width="100" height="50" src="https://raw.githubusercontent.com/kumarmuthu/MuthuIcon/main/Icons/Jira-Light.svg" alt="Jira">
             <br><small>Jira</small>
         </td>
