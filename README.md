@@ -27,6 +27,12 @@
   </ul>
 </div>
 <div>
+  <h1 align="left"><strong>Custom HTTP Server</strong></h1>
+  <ul>
+    <li><a href="https://github.com/kumarmuthu/custom-http-server" target="_blank">Custom HTTP Server</a> — A MIME-aware Python web server with systemd integration. Easily serve directories with `.log`, `.xml`, `.tap`, and `.html` support.</li>
+  </ul>
+</div>
+<div>
   <h1 align="left"><strong>Snake Eating My Contribution Graph</strong></h1>
     <img src="https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
