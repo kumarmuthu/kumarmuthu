@@ -316,6 +316,7 @@
       <li><strong>Python Private Logic</strong></li>
       <li><strong>Python Testing Framework</strong></li>
       <li><strong>Python with AI/Huggingface</strong></li>
+      <li><strong>Python Custom HTTP Server</strong></li>
       <li><strong>Python Flask Testing Framework</strong></li>
       <li><strong>Python Private Selenium Project</strong></li>
       <li><strong>Private EPS32 with Muthu WebSite</strong></li>
