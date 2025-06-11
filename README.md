@@ -23,7 +23,7 @@
 <div>
   <h1 align="left"><strong>ESP32 Web App</strong></h1>
   <ul>
-    <li><a href="https://esp32-firebase-oled-display.web.app/" target="_blank">ESP32 Web App</a> — ESP32 controller for a servo motor and OLED display, integrated with Google Firebase.</li>
+    <li><a href="https://esp32-firebase-oled-display.web.app/index.html" target="_blank">ESP32 Web App</a> — ESP32 controller for a servo motor and OLED display, integrated with Google Firebase.</li>
   </ul>
 </div>
 <div>
