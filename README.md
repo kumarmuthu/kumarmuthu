@@ -29,7 +29,7 @@
 <div>
   <h1 align="left"><strong>Custom HTTP Server</strong></h1>
   <ul>
-    <li><a href="https://github.com/kumarmuthu/custom-http-server" target="_blank">Custom HTTP Server</a> — A MIME-aware Python web server with systemd integration. Easily serve directories with `.log`, `.xml`, `.tap`, and `.html` support.</li>
+    <li><a href="https://github.com/kumarmuthu/custom-http-server" target="_blank">Custom HTTP Server</a> — custom http server - A MIME-aware Python web server with systemd integration. Easily serve directories with `.log`, `.xml`, `.tap`, and `.html` support.</li>
   </ul>
 </div>
 <div>
