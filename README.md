@@ -33,6 +33,15 @@
   </ul>
 </div>
 <div>
+  <h1 align="left"><strong>MuthuMediaPlayer</strong></h1>
+  <ul>
+    <li>
+      <a href="https://muthumediaplayer.onrender.com" target="_blank">MuthuMediaPlayer</a> —
+      A secure, self-hosted encrypted media streaming app built with Flask. Supports Fernet encryption for `.mp3`/`.mp4`, real-time decryption, Firebase-based login, external video URLs, and protection against IDM-like tools.
+    </li>
+  </ul>
+</div>
+<div>
   <h1 align="left"><strong>Snake Eating My Contribution Graph</strong></h1>
     <img src="https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
@@ -313,6 +322,7 @@
       <li><strong>Python Flask</strong></li>
       <li><strong>PyThreadKiller</strong></li>
       <li><strong>Java JSF Project</strong></li>
+      <li><strong>MuthuMediaPlayer</strong></li>
       <li><strong>Python Private Logic</strong></li>
       <li><strong>Python Testing Framework</strong></li>
       <li><strong>Python with AI/Huggingface</strong></li>
@@ -338,4 +348,5 @@
 
 ### PyThreadKiller - requirements.txt
 - requests>=2.31.0
+
 
