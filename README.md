@@ -312,6 +312,7 @@
     <li><strong>Linkedin:</strong> <a href="https://www.linkedin.com/in" target="_blank">https://www.linkedin.com/in</a></li>
     <li><strong>GitHub:</strong> <a href="https://github.com/kumarmuthu" target="_blank">https://github.com/kumarmuthu</a></li>
     <li><strong>PyPi:</strong> <a href="https://pypi.org/user/Muthukumar-S/" target="_blank">https://pypi.org/user/Muthukumar-S/</a></li>
+    <li><strong>NPM:</strong> <a href="https://www.npmjs.com/~muthukumar-s" target="_blank">https://www.npmjs.com/~muthukumar-s</a></li>
     <li><strong>Stackoverflow:</strong> <a href="https://stackoverflow.com/users/7640131/muthukumar-s" target="_blank">https://stackoverflow.com/users/7640131/muthukumar-s</a></li>
     <li><strong>YouTube:</strong> <a href="https://www.youtube.com/channel/UC21BLRVzHJmMbXKhZpEiz5Q" target="_blank">https://www.youtube.com/channel/UC21BLRVzHJmMbXKhZpEiz5Q</a></li>
   </ul>
@@ -360,6 +361,7 @@
 
 ### PyThreadKiller - requirements.txt
 - requests>=2.31.0
+
 
 
 
