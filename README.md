@@ -306,6 +306,7 @@
 <div>
 <h1 align="left"><strong>Visitor Count</strong></h1>
 <img src="https://profile-counter.glitch.me/{kumarmuthu}/count.svg" alt="Visitor Count">
+<img src="https://komarev.com/ghpvc/?username=kumarmuthu&color=blue&style=flat" alt="Visitor Count">
 </div>
 <hr>
 <div>
@@ -364,6 +365,7 @@
 
 ### PyThreadKiller - requirements.txt
 - requests>=2.31.0
+
 
 
 
