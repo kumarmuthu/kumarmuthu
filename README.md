@@ -4,9 +4,11 @@
 <hr>
 <div>
   <h1 align="left"><strong>PyPi Package</strong></h1>
-    <ul>
-        <li><a href="https://pypi.org/project/PyThreadKiller/" target="_blank">PyThreadKiller</a></li>
-    </ul>
+  <ul>
+    <li>
+      <a href="https://pypi.org/project/PyThreadKiller/" target="_blank">PyThreadKiller</a> — A utility to manage and kill threads in Python applications.
+    </li>
+  </ul>
 </div>
 <div>
   <h1 align="left"><strong>Python Flask App</strong></h1>
@@ -362,6 +364,7 @@
 
 ### PyThreadKiller - requirements.txt
 - requests>=2.31.0
+
 
 
 
