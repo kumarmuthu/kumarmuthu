@@ -42,6 +42,18 @@
   </ul>
 </div>
 <div>
+  <h1 align="left"><strong>NPM Package</strong></h1>
+  <ul>
+    <li>
+      <a href="https://www.npmjs.com/package/muthu-ui-effects" target="_blank">Muthu UI Effects</a> —
+      Lightweight JavaScript library to add glowing buttons, rainbow marquees, and UI animations.
+      [<a href="https://github.com/kumarmuthu/muthu-ui-effects" target="_blank">GitHub</a>] ·
+      [<a href="https://cdn.jsdelivr.net/npm/muthu-ui-effects/dist/muthu_style_effect.js" target="_blank">CDN</a>]
+    </li>
+  </ul>
+</div>
+<hr>
+<div>
   <h1 align="left"><strong>Snake Eating My Contribution Graph</strong></h1>
     <img src="https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
@@ -348,5 +360,6 @@
 
 ### PyThreadKiller - requirements.txt
 - requests>=2.31.0
+
 
 
