@@ -335,8 +335,9 @@
       <li><strong>Python Flask</strong></li>
       <li><strong>PyThreadKiller</strong></li>
       <li><strong>Java JSF Project</strong></li>
-      <li><strong>MuthuMediaPlayer</strong></li>
+      <li><strong>Muthu Media Player</strong></li>
       <li><strong>Python Private Logic</strong></li>
+      <li><strong>Python Interpreter App</strong></li>
       <li><strong>Python Testing Framework</strong></li>
       <li><strong>Python with AI/Huggingface</strong></li>
       <li><strong>Python Custom HTTP Server</strong></li>
@@ -361,6 +362,7 @@
 
 ### PyThreadKiller - requirements.txt
 - requests>=2.31.0
+
 
 
 
