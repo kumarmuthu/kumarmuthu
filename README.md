@@ -11,6 +11,15 @@
   </ul>
 </div>
 <div>
+  <h1 align="left"><strong>Python Interpreter App</strong></h1>
+  <ul>
+    <li>
+      <a href="https://pythoninterpreterapp.onrender.com/" target="_blank">Python Interpreter App</a> — 
+      Hybrid Python executor with Pyodide frontend, Micromamba backend, real-time streaming, and Monaco editor.
+    </li>
+  </ul>
+</div>
+<div>
   <h1 align="left"><strong>Python Flask App</strong></h1>
   <ul>
     <li><a href="https://pythonflaskapps.onrender.com/" target="_blank">Python Flask App</a> — Lightweight quiz app with a single quiz page; anyone can play the quiz.</li>
@@ -38,8 +47,8 @@
   <h1 align="left"><strong>MuthuMediaPlayer</strong></h1>
   <ul>
     <li>
-      <a href="https://muthumediaplayer.onrender.com" target="_blank">MuthuMediaPlayer</a> —
-      A secure, self-hosted encrypted media streaming app built with Flask. Supports Fernet encryption for `.mp3`/`.mp4`, real-time decryption, Firebase-based login, external video URLs, and protection against IDM-like tools.
+      <a href="https://muthumediaplayer.onrender.com" target="_blank">MuthuMediaPlayer</a> — 
+      Encrypted media streaming app with Flask, supporting `.mp3`/`.mp4`, real-time decryption, Firebase login, and IDM protection.
     </li>
   </ul>
 </div>
@@ -368,6 +377,7 @@
 
 ### PyThreadKiller - requirements.txt
 - requests>=2.31.0
+
 
 
 
