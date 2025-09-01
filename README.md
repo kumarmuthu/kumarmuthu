@@ -315,7 +315,7 @@
 <div>
   <h1 align="left"><strong>Visitor Count</strong></h1>
   <!-- Glitch counter (currently broken / 410 Gone) -->
-  <img src="https://profile-counter.glitch.me/{kumarmuthu}/count.svg" alt="Visitor Count (Glitch)">
+  <!-- <img src="https://profile-counter.glitch.me/{kumarmuthu}/count.svg" alt="Visitor Count (Glitch)"> -->
   <!-- Komarev counter (always available) -->
   <img src="https://komarev.com/ghpvc/?username=kumarmuthu&color=blue&style=flat" alt="Visitor Count (Komarev)">
 </div>
@@ -377,6 +377,7 @@
 
 ### PyThreadKiller - requirements.txt
 - requests>=2.31.0
+
 
 
 
