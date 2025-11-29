@@ -3,10 +3,13 @@
 </marquee>
 <hr>
 <div>
-  <h1 align="left"><strong>PyPi Package</strong></h1>
+  <h1 align="left"><strong>PyPi Packages</strong></h1>
   <ul>
     <li>
       <a href="https://pypi.org/project/PyThreadKiller/" target="_blank">PyThreadKiller</a> — A utility to manage and kill threads in Python applications.
+    </li>
+    <li>
+      <a href="https://pypi.org/project/muthu-pyformatter/" target="_blank">muthu-pyformatter</a> — A lightweight Python code-quality utility using pycodestyle and autopep8.
     </li>
   </ul>
 </div>
@@ -377,6 +380,7 @@
 
 ### PyThreadKiller - requirements.txt
 - requests>=2.31.0
+
 
 
 
