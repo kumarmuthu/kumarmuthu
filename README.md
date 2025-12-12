@@ -75,7 +75,10 @@
 <div>
   <h1 align="left"><strong>Programming Language Dashboard</strong></h1>
     <a href="https://github.com/kumarmuthu">
+    <!--
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmuthu&theme=tokyonight&layout=compact"/></a>
+    -->
+    <img src="https://github-readme-stats-git-master-kumarmuthu.vercel.app/api/top-langs/?username=kumarmuthu&theme=tokyonight&layout=compact"/></a>
     <br/>
 </div>
 <h1 align="left"><strong>Languages and Tools:</strong></h1>
