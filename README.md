@@ -11,6 +11,9 @@
     <li>
       <a href="https://pypi.org/project/muthu-pyformatter/" target="_blank">muthu-pyformatter</a> — A lightweight Python code-quality utility using pycodestyle and autopep8.
     </li>
+    <li>
+      <a href="https://pypi.org/project/timed-prompt/" target="_blank">timed-prompt</a> — Cross-platform Python utility for timed user input with fallback to getpass.
+    </li>
   </ul>
 </div>
 <div>
@@ -381,20 +384,3 @@
 <!-- Dependencies Packages for all the Repositories -->
 <!-- Dependencies will be inserted here by GitHub Actions -->
 <!-- ## Dependencies -->
-
-## Dependencies Packages for all the Repositories:
-
-### PyThreadKiller - requirements.txt
-- requests>=2.31.0
-
-
-
-
-
-
-
-
-
-
-
-
