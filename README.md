@@ -44,6 +44,17 @@
   </ul>
 </div>
 <div>
+  <h1 align="left"><strong>Custom HTTPS Server</strong></h1>
+  <ul>
+    <li>
+      <a href="https://github.com/kumarmuthu/custom-https-server" target="_blank">
+        Custom HTTPS Server
+      </a>
+      — custom https server - A secure MIME-aware Python web server with HTTPS/TLS support, read-only and read-write modes, and systemd integration. Easily serve directories with `.log`, `.xml`, `.tap`, and `.html` support.
+    </li>
+  </ul>
+</div>
+<div>
   <h1 align="left"><strong>Custom HTTP Server</strong></h1>
   <ul>
     <li><a href="https://github.com/kumarmuthu/custom-http-server" target="_blank">Custom HTTP Server</a> — custom http server - A MIME-aware Python web server with systemd integration. Easily serve directories with `.log`, `.xml`, `.tap`, and `.html` support.</li>
@@ -384,3 +395,4 @@
 <!-- Dependencies Packages for all the Repositories -->
 <!-- Dependencies will be inserted here by GitHub Actions -->
 <!-- ## Dependencies -->
+
