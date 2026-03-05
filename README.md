@@ -327,8 +327,15 @@
 <hr>
 <div>
   <h1 align="left"><strong>GitHub Stats</strong></h1>
-    <a href="https://github.com/kumarmuthu"><img src="https://github-readme-streak-stats.herokuapp.com?user=kumarmuthu&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="kumarmuthu" width=49% height=auto/></a>
-    <a href="https://github.com/kumarmuthu"><img src="https://github-readme-stats.vercel.app/api?username=kumarmuthu&show_icons=true&theme=tokyonight" width=49% height=auto/></a>
+
+  <a href="https://github.com/kumarmuthu">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kumarmuthu&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" width=49% />
+  </a>
+
+  <a href="https://github.com/kumarmuthu">
+    <img src="https://github-readme-stats-kumarmuthu.vercel.app/api?username=kumarmuthu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width=49% />
+  </a>
+
 </div>
 
 <hr>
@@ -402,3 +409,4 @@
 - **Private Repositories:** 34
 
 _Last Updated: Wed Mar  4 18:00:55 UTC 2026_
+
