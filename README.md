@@ -82,6 +82,18 @@
 </div>
 <hr>
 <div>
+  <h1 align="left"><strong>Space Visualizer</strong></h1>
+  <ul>
+    <li>
+      <a href="https://kumarmuthu.github.io/space-visualizer/" target="_blank">Space Visualizer</a> —
+      Interactive 3D Solar System built with Three.js. V1: basic orbits &amp; glow. V2: real JPL Keplerian orbits, clickable planets, time warp, IST timezone, orbit highlight, and device compass.
+      [<a href="https://kumarmuthu.github.io/space-visualizer/V1/index.html" target="_blank">V1</a>] ·
+      [<a href="https://kumarmuthu.github.io/space-visualizer/index.html" target="_blank">V2</a>]
+    </li>
+  </ul>
+</div>
+<hr>
+<div>
   <h1 align="left"><strong>Snake Eating My Contribution Graph</strong></h1>
     <img src="https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
@@ -400,11 +412,10 @@
 <!-- Dependencies will be inserted here by GitHub Actions -->
 <!-- ## Dependencies -->
 
-
 ## 📊 Repository Statistics
 
 - **Total Repositories:** 56
 - **Public Repositories:** 22
 - **Private Repositories:** 34
 
-_Last Updated: Sun Mar  8 08:14:24 UTC 2026_
+_Last Updated: Sun Mar 8 08:14:24 UTC 2026_
