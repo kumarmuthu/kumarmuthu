@@ -94,8 +94,19 @@
 </div>
 <hr>
 <div>
+  <h1 align="left"><strong>Snake-Graph</strong></h1>
+  <ul>
+    <li>
+      <a href="https://kumarmuthu.github.io/snake-graph/index.html?user=kumarmuthu" target="_blank">Snake-Graph</a> — 
+      Animated GitHub contribution graph where a snake moves across the grid and consumes commits, visualizing repository activity in a fun way.
+    </li>
+  </ul>
+</div>
+<hr>
+<div>
   <h1 align="left"><strong>Snake Eating My Contribution Graph</strong></h1>
-    <img src="https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg" alt="snake gif">
+    <!-- <img src="https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg" alt="snake gif"> -->
+    <img src="https://raw.githubusercontent.com/kumarmuthu/snake-graph/main/snake-dark.svg" alt="snake gif">
 </div>
 <hr>
 <div>
@@ -411,6 +422,7 @@
 <!-- Dependencies Packages for all the Repositories -->
 <!-- Dependencies will be inserted here by GitHub Actions -->
 <!-- ## Dependencies -->
+
 
 
 ## 📊 Repository Statistics
