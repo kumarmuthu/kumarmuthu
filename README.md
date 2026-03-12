@@ -85,7 +85,7 @@
   <h1 align="left"><strong>Space Visualizer</strong></h1>
   <ul>
     <li>
-      <a href="https://kumarmuthu.github.io/space-visualizer/" target="_blank">Space Visualizer</a> —
+      <a href="https://github.com/kumarmuthu/space-visualizer" target="_blank">Space Visualizer</a> —
       Interactive 3D Solar System built with Three.js. V1: basic orbits &amp; glow. V2: real JPL Keplerian orbits, clickable planets, time warp, IST timezone, orbit highlight, and device compass.
       [<a href="https://kumarmuthu.github.io/space-visualizer/V1/index.html" target="_blank">V1</a>] ·
       [<a href="https://kumarmuthu.github.io/space-visualizer/index.html" target="_blank">V2</a>]
@@ -422,6 +422,7 @@
 <!-- Dependencies Packages for all the Repositories -->
 <!-- Dependencies will be inserted here by GitHub Actions -->
 <!-- ## Dependencies -->
+
 
 
 
