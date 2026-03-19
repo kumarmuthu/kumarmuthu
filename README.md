@@ -99,6 +99,7 @@
     <li>
       <a href="https://kumarmuthu.github.io/snake-graph/index.html?user=kumarmuthu" target="_blank">Snake-Graph</a> — 
       Animated GitHub contribution graph where a snake moves across the grid and consumes commits, visualizing repository activity in a fun way.
+      [<a href="https://github.com/kumarmuthu/snake-graph" target="_blank">GitHub</a>]
     </li>
   </ul>
 </div>
