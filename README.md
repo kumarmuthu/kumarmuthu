@@ -105,6 +105,20 @@
 </div>
 <hr>
 <div>
+  <h1 align="left"><strong>MuthuGold (Gold Dashboard)</strong></h1>
+  <ul>
+    <li>
+      <a href="https://golddashboard-cd3l.onrender.com/" target="_blank">
+        Live Dashboard
+      </a> —
+      Real-time gold price tracker with GLD ETF, India retail (Bangalore & Chennai),
+      and global prices across 25 countries with auto-refresh via Socket.IO.
+      [<a href="https://github.com/kumarmuthu/GoldDashboard" target="_blank">GitHub</a>]
+    </li>
+  </ul>
+</div>
+<hr>
+<div>
   <h1 align="left"><strong>Snake Eating My Contribution Graph</strong></h1>
     <!-- <img src="https://github.com/kumarmuthu/kumarmuthu/blob/output/github-snake-dark.svg" alt="snake gif"> -->
     <img src="https://raw.githubusercontent.com/kumarmuthu/snake-graph/main/snake-dark.svg" alt="snake gif">
