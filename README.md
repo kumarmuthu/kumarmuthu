@@ -12,6 +12,9 @@
       <a href="https://pypi.org/project/muthu-pyformatter/" target="_blank">muthu-pyformatter</a> — A lightweight Python code-quality utility using pycodestyle and autopep8.
     </li>
     <li>
+      <a href="https://pypi.org/project/muthu-flake8-fixer/" target="_blank">muthu-flake8-fixer</a> — Safe, AST-aware automatic fixer for common flake8 errors.
+    </li>
+    <li>
       <a href="https://pypi.org/project/timed-prompt/" target="_blank">timed-prompt</a> — Cross-platform Python utility for timed user input with fallback to getpass.
     </li>
   </ul>
