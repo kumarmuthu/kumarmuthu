@@ -47,6 +47,17 @@
   </ul>
 </div>
 <div>
+  <h1 align="left"><strong>Custom HTTPS Server Plus Releases</strong></h1>
+  <ul>
+    <li>
+      <a href="https://github.com/kumarmuthu/custom-https-server-plus-releases" target="_blank">
+        Custom HTTPS Server Plus Releases
+      </a>
+      — A professional cross-platform HTTPS file server distributed as native installers for Windows, Linux, and macOS, featuring HTTPS/TLS, optional authentication, Windows Service (NSSM), Linux systemd, macOS launchd, enterprise licensing, and compiled source-protected binaries.
+    </li>
+  </ul>
+</div>
+<div>
   <h1 align="left"><strong>Custom HTTPS Server</strong></h1>
   <ul>
     <li>
