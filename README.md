@@ -429,14 +429,19 @@
       <li><strong>Python Flask</strong></li>
       <li><strong>PyThreadKiller</strong></li>
       <li><strong>Java JSF Project</strong></li>
+      <li><strong>Muthu Jarvis Agent</strong></li>
+      <li><strong>Muthu File Manager</strong></li>
+      <li><strong>Muthu Forge Builder</strong></li>
       <li><strong>Muthu Media Player</strong></li>
       <li><strong>Python Private Logic</strong></li>
       <li><strong>Python Interpreter App</strong></li>
+      <li><strong>HTML Workflow Animator</strong></li>
       <li><strong>Python Testing Framework</strong></li>
-      <li><strong>Python with AI/Huggingface</strong></li>
       <li><strong>Python Custom HTTP Server</strong></li>
+      <li><strong>Python with AI/Huggingface</strong></li>
       <li><strong>Python Flask Testing Framework</strong></li>
       <li><strong>Python Private Selenium Project</strong></li>
+      <li><strong>Python Custom HTTPS Server Plus</strong></li>
       <li><strong>Private EPS32 with Muthu WebSite</strong></li>
       <li><strong>Docker Image Builder(Linux/Windows)</strong></li>
       <li><strong>Python Utility to connect to Google Firebase</strong></li>
