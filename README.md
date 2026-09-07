@@ -426,29 +426,41 @@
   <ul style="list-style-type: disc; padding-left: 0; margin-top: 0; margin-bottom: 0;">
     <li><strong><span style="font-size: 16px;">Available Private Projects, Python Frameworks, and private Utility scripts</span></strong></li>
     <ul style="list-style-type: disc; padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li><strong>Python Flask</strong></li>
+      <ul style="list-style-type: disc; padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li><strong>Linux Bash</strong></li>
       <li><strong>NBD Manager</strong></li>
+      <li><strong>Python Flask</strong></li>
+      <li><strong>Gold Dashboard</strong></li>
+      <li><strong>Jenkins Groovy</strong></li>
       <li><strong>PyThreadKiller</strong></li>
+      <li><strong>Flask Astrologer</strong></li>
       <li><strong>Java JSF Project</strong></li>
-      <li><strong>Muthu Jarvis Agent</strong></li>
+      <li><strong>Linux FIO Executor</strong></li>
       <li><strong>Muthu File Manager</strong></li>
+      <li><strong>Muthu Jarvis Agent</strong></li>
       <li><strong>Muthu Media Player</strong></li>
+      <li><strong>Muthu Exe Converter</strong></li>
       <li><strong>Muthu Forge Builder</strong></li>
       <li><strong>Python Private Logic</strong></li>
-      <li><strong>Python Interpreter App</strong></li>
       <li><strong>HTML Workflow Animator</strong></li>
+      <li><strong>Python Interpreter App</strong></li>
+      <li><strong>Python Face Recognition</strong></li>
       <li><strong>Python Testing Framework</strong></li>
       <li><strong>Python Custom HTTP Server</strong></li>
+      <li><strong>Linux Utility Using Python</strong></li>
       <li><strong>Python with AI/Huggingface</strong></li>
       <li><strong>Python Flask Testing Framework</strong></li>
-      <li><strong>Python Private Selenium Project</strong></li>
       <li><strong>Python Custom HTTPS Server Plus</strong></li>
+      <li><strong>Python Private Selenium Project</strong></li>
+      <li><strong>Apache and Log Server Automation</strong></li>
       <li><strong>Private EPS32 with Muthu WebSite</strong></li>
+      <li><strong>Python Database Access Framework</strong></li>
       <li><strong>Docker Image Builder(Linux/Windows)</strong></li>
-      <li><strong>Python Utility to connect to Google Firebase</strong></li>
       <li><strong>Python With MongoDB(Store/Retrieve/Delete)</strong></li>
+      <li><strong>Python Utility to connect to Google Firebase</strong></li>
       <li><strong>Python Runtime-Based Script Execution Framework</strong></li>
       <li><strong>Python Implementation for Generating and Validating Licenses with Google Firebase</strong></li>
+    </ul>
     </ul>
   </ul>
 </div>
