@@ -427,47 +427,47 @@
     <li><strong><span style="font-size: 16px;">Available Private Projects, Python Frameworks, and private Utility scripts</span></strong></li>
     <ul style="list-style-type: disc; padding-left: 20px; margin-top: 0; margin-bottom: 0;">
      <ul style="list-style-type: disc; padding-left: 20px; margin-top: 0; margin-bottom: 0; text-align: left;">
-      <li><strong>Linux Bash</strong></li>
-      <li><strong>Sphinx Docs</strong></li>
-      <li><strong>Python Flask</strong></li>
-      <li><strong>NBD Manager</strong></li>
-      <li><strong>PyThreadKiller</strong></li>
-      <li><strong>Jenkins Groovy</strong></li>
-      <li><strong>Java JSF Project</strong></li>
-      <li><strong>Inventory Jarvis</strong></li>
-      <li><strong>Gold Dashboard</strong></li>
-      <li><strong>Flask Astrologer</strong></li>
-      <li><strong>Muthu Flask APK</strong></li>
-      <li><strong>Linux FIO Executor</strong></li>
-      <li><strong>QEMU VM Manager</strong></li>
-      <li><strong>Muthu Jarvis Agent</strong></li>
-      <li><strong>Muthu Media Player</strong></li>
-      <li><strong>Muthu File Manager</strong></li>
-      <li><strong>Muthu Media Studio</strong></li>
-      <li><strong>Muthu Forge Builder</strong></li>
-      <li><strong>Python Private Logic</strong></li>
-      <li><strong>Muthu Exe Converter</strong></li>
-      <li><strong>Perl Database Access</strong></li>
-      <li><strong>Resumable Upload Kit</strong></li>
-      <li><strong>Python Interpreter App</strong></li>
-      <li><strong>Python Face Recognition</strong></li>
-      <li><strong>HTML Workflow Animator</strong></li>
-      <li><strong>Linux Utility Using Python</strong></li>
-      <li><strong>Python Testing Framework</strong></li>
-      <li><strong>Python with AI/Huggingface</strong></li>
-      <li><strong>Python Custom HTTP Server</strong></li>
-      <li><strong>Python Private Selenium Project</strong></li>
-      <li><strong>Python Flask Testing Framework</strong></li>
-      <li><strong>Python Custom HTTPS Server Plus</strong></li>
-      <li><strong>Private EPS32 with Muthu WebSite</strong></li>
-      <li><strong>Apache and Log Server Automation</strong></li>
-      <li><strong>Python Database Access Framework</strong></li>
-      <li><strong>Docker Image Builder(Linux/Windows)</strong></li>
-      <li><strong>Python Utility to connect to Google Firebase</strong></li>
-      <li><strong>Python With MongoDB(Store/Retrieve/Delete)</strong></li>
-      <li><strong>Python Runtime-Based Script Execution Framework</strong></li>
-      <li><strong>Python Implementation for Generating and Validating Licenses with Google Firebase</strong></li>
-     </ul>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232CF7E4&vCenter=true&width=145&height=30&lines=Linux+Bash" alt="Linux Bash"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F72C5B&vCenter=true&width=157&height=30&lines=Sphinx+Docs" alt="Sphinx Docs"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F7B32C&vCenter=true&width=170&height=30&lines=Python+Flask" alt="Python Flask"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%237CF72C&vCenter=true&width=157&height=30&lines=NBD+Manager" alt="NBD Manager"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232C8EF7&vCenter=true&width=195&height=30&lines=PyThreadKiller" alt="PyThreadKiller"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23B02CF7&vCenter=true&width=195&height=30&lines=Jenkins+Groovy" alt="Jenkins Groovy"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F76F2C&vCenter=true&width=220&height=30&lines=Java+JSF+Project" alt="Java JSF Project"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232CF79A&vCenter=true&width=220&height=30&lines=Inventory+Jarvis" alt="Inventory Jarvis"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232CF7E4&vCenter=true&width=195&height=30&lines=Gold+Dashboard" alt="Gold Dashboard"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F72C5B&vCenter=true&width=220&height=30&lines=Flask+Astrologer" alt="Flask Astrologer"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F7B32C&vCenter=true&width=207&height=30&lines=Muthu+Flask+APK" alt="Muthu Flask APK"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%237CF72C&vCenter=true&width=245&height=30&lines=Linux+FIO+Executor" alt="Linux FIO Executor"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232C8EF7&vCenter=true&width=207&height=30&lines=QEMU+VM+Manager" alt="QEMU VM Manager"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23B02CF7&vCenter=true&width=245&height=30&lines=Muthu+Jarvis+Agent" alt="Muthu Jarvis Agent"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F76F2C&vCenter=true&width=245&height=30&lines=Muthu+Media+Player" alt="Muthu Media Player"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232CF79A&vCenter=true&width=245&height=30&lines=Muthu+File+Manager" alt="Muthu File Manager"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232CF7E4&vCenter=true&width=245&height=30&lines=Muthu+Media+Studio" alt="Muthu Media Studio"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F72C5B&vCenter=true&width=257&height=30&lines=Muthu+Forge+Builder" alt="Muthu Forge Builder"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F7B32C&vCenter=true&width=270&height=30&lines=Python+Private+Logic" alt="Python Private Logic"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%237CF72C&vCenter=true&width=257&height=30&lines=Muthu+Exe+Converter" alt="Muthu Exe Converter"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232C8EF7&vCenter=true&width=270&height=30&lines=Perl+Database+Access" alt="Perl Database Access"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23B02CF7&vCenter=true&width=270&height=30&lines=Resumable+Upload+Kit" alt="Resumable Upload Kit"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F76F2C&vCenter=true&width=295&height=30&lines=Python+Interpreter+App" alt="Python Interpreter App"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232CF79A&vCenter=true&width=307&height=30&lines=Python+Face+Recognition" alt="Python Face Recognition"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232CF7E4&vCenter=true&width=295&height=30&lines=HTML+Workflow+Animator" alt="HTML Workflow Animator"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F72C5B&vCenter=true&width=345&height=30&lines=Linux+Utility+Using+Python" alt="Linux Utility Using Python"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F7B32C&vCenter=true&width=320&height=30&lines=Python+Testing+Framework" alt="Python Testing Framework"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%237CF72C&vCenter=true&width=345&height=30&lines=Python+with+AI%2FHuggingface" alt="Python with AI/Huggingface"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232C8EF7&vCenter=true&width=332&height=30&lines=Python+Custom+HTTP+Server" alt="Python Custom HTTP Server"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23B02CF7&vCenter=true&width=407&height=30&lines=Python+Private+Selenium+Project" alt="Python Private Selenium Project"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F76F2C&vCenter=true&width=395&height=30&lines=Python+Flask+Testing+Framework" alt="Python Flask Testing Framework"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232CF79A&vCenter=true&width=407&height=30&lines=Python+Custom+HTTPS+Server+Plus" alt="Python Custom HTTPS Server Plus"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232CF7E4&vCenter=true&width=420&height=30&lines=Private+EPS32+with+Muthu+WebSite" alt="Private EPS32 with Muthu WebSite"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F72C5B&vCenter=true&width=420&height=30&lines=Apache+and+Log+Server+Automation" alt="Apache and Log Server Automation"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F7B32C&vCenter=true&width=420&height=30&lines=Python+Database+Access+Framework" alt="Python Database Access Framework"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%237CF72C&vCenter=true&width=457&height=30&lines=Docker+Image+Builder%28Linux%2FWindows%29" alt="Docker Image Builder(Linux/Windows)"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232C8EF7&vCenter=true&width=570&height=30&lines=Python+Utility+to+connect+to+Google+Firebase" alt="Python Utility to connect to Google Firebase"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23B02CF7&vCenter=true&width=545&height=30&lines=Python+With+MongoDB%28Store%2FRetrieve%2FDelete%29" alt="Python With MongoDB(Store/Retrieve/Delete)"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%23F76F2C&vCenter=true&width=607&height=30&lines=Python+Runtime-Based+Script+Execution+Framework" alt="Python Runtime-Based Script Execution Framework"/></a></li>
+  <li><a><img height="30" src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&color=%232CF79A&vCenter=true&width=1032&height=30&lines=Python+Implementation+for+Generating+and+Validating+Licenses+with+Google+Firebase" alt="Python Implementation for Generating and Validating Licenses with Google Firebase"/></a></li>
+</ul>
     </ul>
   </ul>
 </div>
